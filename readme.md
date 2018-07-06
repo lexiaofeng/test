@@ -30,3 +30,4 @@ d
 cd
 c
 repair a bug
+repair a bug
